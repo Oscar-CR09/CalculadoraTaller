@@ -1,0 +1,28 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net9.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <AssemblyName>CalculadoraTaller</AssemblyName>
+    <RootNamespace>CalculadoraTaller</RootNamespace>
+  </PropertyGroup>
+
+  <!-- ===================== DATOS DEL PROGRAMA (edítalos aquí) =====================
+       Se muestran en Ayuda > Acerca de, en el título de la ventana y en
+       clic derecho sobre el .exe > Propiedades > Detalles.                        -->
+  <PropertyGroup>
+    <Product>Calculadora de Taller</Product>
+    <Authors>OSCAR CERVANTES R</Authors>
+    <Company> CODIGO ABIERTO</Company>
+    <Copyright>© 2026 OSCAR CERVANTES ROSALES</Copyright>
+    <Description>Cálculo de pie tabla, costeo de muebles, m² de metal y consumo de barniz / pintura electrostática.</Description>
+    <!-- Versión: Mayor.Menor.Corrección  (súbela cada vez que publiques cambios) -->
+    <Version>1.1.0</Version>
+    <FileVersion>1.1.0.0</FileVersion>
+    <AssemblyVersion>1.1.0.0</AssemblyVersion>
+  </PropertyGroup>
+
+</Project>
